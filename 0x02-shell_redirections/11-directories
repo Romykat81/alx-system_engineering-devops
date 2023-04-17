@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Apfind .maxdepth -1 | wc -l
+ls -Apfind type -d .rmaxdepth -1 | wc -l
